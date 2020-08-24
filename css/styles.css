@@ -1,0 +1,25 @@
+.poland {
+  margin: auto;
+  width: 20%;
+  height: 20%;
+  display: block;
+}
+
+.chicago {
+  margin: auto;
+  width: auto;
+  height: 5%;
+  display:block;
+}
+.tree {
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  display: block;
+}
+figcaption {
+  text-align: center;
+}
+.fun {
+  background-color: aqua;
+}
