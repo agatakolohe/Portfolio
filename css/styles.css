@@ -1,6 +1,10 @@
 h1 {
   text-align: center;
 }
+body {
+  color: white;
+  background-color: mediumaquamarine;
+}
 ul {
   list-style-position: inside;
 }
@@ -11,18 +15,18 @@ ol {
   text-align: left;
 }
 .jumbotron {
-  background-color: maroon;
+  background-color: mediumaquamarine;
   color: white;
   font-weight: 200px;
-  border: solid black;
+  border: solid aquamarine;
   border-width: 5px;
+  border-width: 3px;
   
 }
 .card {
-  background-color: maroon;
+  background-color: mediumaquamarine;
   color: white;
-  border: solid black;
-  border-width: 5px;
+  border: solid aquamarine;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -39,7 +43,7 @@ ol {
   width: auto;
   padding: 20px;
   float: left;
-  border: solid maroon;
+  border: solid aquamarine;
   border-width: 10px;
   margin-bottom: 50px;
 }
@@ -55,6 +59,8 @@ ol {
   height: 30%;
   float: right;
   margin: auto;
+  border: solid aquamarine;
+  border-width: 3px;
 }
 .poland {
   margin: auto;
@@ -130,6 +136,7 @@ ol {
   width: 50%;
   height: 50%;
   display: block;
+  margin-top: 20px;
 }
 .code-screen {
   margin: auto;
@@ -143,13 +150,13 @@ figcaption {
   text-align: center;
 }
 .fun {
-  color: darkred;
+  color: aquamarine;
 }
 .important {
-  background-color: maroon;
+  background-color: mediumaquamarine;
   color: white;
-  border: solid black;
-  border-width: 5px;
+  border-width: 3px;
+  border: solid aquamarine;
   margin: auto;
   width: 30%;
   padding: 15px; 
