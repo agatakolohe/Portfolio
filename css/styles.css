@@ -1,3 +1,39 @@
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-position: inside;
+}
+ol {
+  list-style-position: inside;
+}
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.nickname {
+  text-align: center;
+}
+.center {
+  text-align: center;
+}
+.sidebar {
+  width: auto;
+  padding: 20px;
+  float: left;
+  border: solid aqua;
+  border-width: 10px;
+  margin-bottom: 50px;
+}
+.carmen {
+  width: 30%;
+  height: 20%;
+  float: right;
+  margin: auto;
+  padding: 20px;
+}
 .poland {
   margin: auto;
   width: 20%;
@@ -7,11 +43,63 @@
 
 .chicago {
   margin: auto;
-  width: auto;
+  width: 50%;
   height: 5%;
   display:block;
 }
 .tree {
+  margin: auto;
+  width: 50%;
+  height: 40%;
+  display: block;
+}
+.palmtree {
+  margin: auto;
+  width: 50%;
+  height: 40%;
+  display: block;
+}
+.islands {
+  margin: auto;
+  margin-bottom: 30px;
+  width: 50%;
+  height: 40%;
+  display: block;
+}
+.aloha {
+  margin: auto;
+  margin-bottom: 30px;
+  width: 50%;
+  height: 40%;
+  display: block;
+}
+.makapuu {
+  margin: auto;
+  width: 50%;
+  height: 40%;
+  display: block;
+}
+.watrees {
+  margin: auto;
+  margin-bottom: 20px;
+  width: auto;
+  height: auto;
+  display: block;
+}
+.seattle {
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin-bottom: 20px;
+}
+.beer {
+  margin: auto;
+  width: 40%;
+  height: 40%;
+  display: block;
+}
+.rainier {
   margin: auto;
   width: 50%;
   height: 50%;
@@ -21,5 +109,15 @@ figcaption {
   text-align: center;
 }
 .fun {
-  background-color: aqua;
+  color: blue;
+}
+.important {
+  color: red;
+  border: solid red;
+  border-width: 10px;
+  margin: auto;
+  width: 30%;
+  padding: 15px; 
+  margin-top: 40px;
+  display: block;
 }
