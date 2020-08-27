@@ -36,9 +36,6 @@ ol {
 .nickname {
   text-align: center;
 }
-.center {
-  text-align: center;
-}
 .sidebar {
   width: auto;
   padding: 20px;
@@ -55,8 +52,8 @@ ol {
   padding: 20px;
 }
 .carmen2 {
-  width: 15%;
-  height: 30%;
+  width: 10%;
+  height: 10%;
   float: right;
   margin: auto;
   border: solid aquamarine;
@@ -69,7 +66,6 @@ ol {
   display: block;
   margin-bottom: 40px;
 }
-
 .chicago {
   margin: auto;
   width: 50%;
@@ -151,6 +147,13 @@ figcaption {
 }
 .fun {
   color: aquamarine;
+}
+.adventure h3 {
+  font-style: italic;
+  color: darkgreen;
+}
+.adventure h4 {
+  margin: 15px;
 }
 .important {
   background-color: mediumaquamarine;
