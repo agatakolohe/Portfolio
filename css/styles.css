@@ -110,16 +110,18 @@ ol {
 .watrees {
   margin: auto;
   margin-bottom: 20px;
-  width: auto;
-  height: auto;
+  width: 60%;
+  height: 50%;
   display: block;
 }
 .seattle {
-  margin: auto;
+  
   width: 50%;
   height: 50%;
-  display: block;
-  margin-bottom: 20px;
+  float: right;
+  margin-left: 50px;
+  margin-top: 80px;
+  margin-bottom: 150px;
 }
 .beer {
   margin: auto;
@@ -149,6 +151,10 @@ figcaption {
 .fun {
   color: aquamarine;
 }
+.pnw {
+  
+}
+
 .adventure h3 {
   font-style: italic;
   color: darkgreen;
