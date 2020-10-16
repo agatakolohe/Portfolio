@@ -1,6 +1,5 @@
-
 body {
-  color: white; 
+  color: #dddbd9; 
   background-color: #050404;
 }
 a {
@@ -17,48 +16,45 @@ a {
   float: right;
   margin-top: 700px;
   text-align: center;
-  border: solid black;
+  border: double black;
   padding: 15px 10px 5px 10px;
+}
+.mainh h4 {
+  text-shadow: 2px 2px #9b9c92;
 }
 .carmenlink {
   width: 20%;
   height: 20%;
   margin-top: 20px;
+  margin-bottom: 10px;
 }
-
 ol {
   list-style-position: inside;
 }
-.left {
-  text-align: left;
-}
 .jumbotron {
   background-color: #050404;
-  color: white;
+  color: #dddbd9;
   font-weight: 200px;
-  border: solid #780905;
-  border-width: 5px; 
+  border: solid #cc0000;
+  border-width: 2px; 
   text-align: center;
 }
 .card {
   background-color: #050404;
-  color: white;
+  color: #dddbd9;
   border: solid #cc0000;
   margin-top: 20px;
   margin-bottom: 20px;
   float: right;
 }
-
-.nickname {
-  text-align: center;
-  color: #f89933;
-}
 .sidebar {
   width: auto;
   padding: 20px;
+  margin: auto;
+  height: auto;
+  display: block;
   border: solid #780905;
   border-width: 10px;
-  margin-bottom: 50px;
 }
 .sidebar h3 {
   text-align: center;
@@ -69,13 +65,6 @@ ol {
 .projectintro {
   text-align: center;
   margin-bottom: 40px;;
-}
-.carmen {
-  width: 30%;
-  height: 20%;
-  float: right;
-  margin: auto;
-  padding: 20px;
 }
 .carmen2 {
   width: 6%;
@@ -97,11 +86,6 @@ ol {
   display: block;
   margin-top: 20px;
   margin-bottom: 50px;
-
-}
-.chicago {
-  width: 30%;
-  height: 5%;
 }
 .tree {
   margin: auto;
@@ -123,28 +107,13 @@ ol {
   height: 50%;
   display: block;
 }
-.seattle {
-  
+.seattle { 
   width: 50%;
   height: 50%;
   float: right;
   margin-left: 50px;
   margin-top: 80px;
   margin-bottom: 150px;
-}
-.beer {
-  margin: auto;
-  width: 40%;
-  height: 40%;
-  display: block;
-  margin-bottom: 30px;
-}
-.rainier {
-  margin: auto;
-  width: 50%;
-  height: 50%;
-  display: block;
-  margin-top: 20px;
 }
 .code-screen {
   margin: auto;
@@ -178,9 +147,9 @@ figcaption {
 .important {
   text-align: center;
   background-color: #050404;
-  color: white;
-  border-width: 3px;
-  border: solid #780905;
+  color: #dddbd9;
+  border-width: 2px;
+  border: solid #cc0000;
   margin: auto;
   width: 30%;
   padding: 15px; 
