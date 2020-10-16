@@ -10,10 +10,10 @@ First independent project for Epicodus. It is a portfolio webpage about me. It d
 
 ## Setup Instructions
 
-# View Online
+### View Online
 * To view in browser click the GH-Pages link: [My Portfolio](https://agatakolohe.github.io/portfolio/)
 
-# Open Locally
+### Open Locally
 
 * Click on the link to my repository: [My Repository](https://github.com/agatakolohe/portfolio)
 * Click on the green "Code" button and copy the repository URL. Open your terminal and use command: git clone https://github.com/agatakolohe/portfolio is the directory you would like to have a clone of this repository.
