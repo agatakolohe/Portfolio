@@ -1,6 +1,4 @@
-h1 {
-  text-align: center;
-}
+
 body {
   color: white; 
   background-color: #050404;
@@ -22,10 +20,12 @@ a {
   border: solid black;
   padding: 15px 10px 5px 10px;
 }
-
-ul {
-  list-style-position: inside;
+.carmenlink {
+  width: 20%;
+  height: 20%;
+  margin-top: 20px;
 }
+
 ol {
   list-style-position: inside;
 }
@@ -38,6 +38,7 @@ ol {
   font-weight: 200px;
   border: solid #780905;
   border-width: 5px; 
+  text-align: center;
 }
 .card {
   background-color: #050404;
@@ -47,9 +48,7 @@ ol {
   margin-bottom: 20px;
   float: right;
 }
-.center {
-  text-align: center;
-}
+
 .nickname {
   text-align: center;
   color: #f89933;
@@ -76,25 +75,27 @@ ol {
   margin-top: 190px;
   margin-right: 300px;
 }
+.card-title {
+  text-align: center;
+}
 .poland {
+  width: 50%;
+  height: 50%;
   margin: auto;
-  width: 20%;
-  height: 20%;
   display: block;
-  margin-bottom: 40px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+
 }
 .chicago {
-  margin: auto;
-  width: 50%;
+  width: 30%;
   height: 5%;
-  display:block;
 }
 .tree {
   margin: auto;
-  width: 50%;
-  height: 40%;
+  width: 70%;
+  height: 60%;
   display: block;
-  margin-top: 20px;
 }
 .palmtree {
   margin: auto;
