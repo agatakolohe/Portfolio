@@ -56,10 +56,19 @@ ol {
 .sidebar {
   width: auto;
   padding: 20px;
-  float: left;
   border: solid #780905;
   border-width: 10px;
   margin-bottom: 50px;
+}
+.sidebar h3 {
+  text-align: center;
+}
+.sidebar h6 {
+  color: #b00404;
+}
+.projectintro {
+  text-align: center;
+  margin-bottom: 40px;;
 }
 .carmen {
   width: 30%;
