@@ -5,16 +5,22 @@ body {
   color: white; 
   background-color: #050404;
 }
+a {
+  color: #f89933;
+}
 .main {
   background-image: url('https://i.pinimg.com/originals/86/5c/e6/865ce626f39bbed01657655503843d46.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-color: white;
+  color: black;
 }
 .mainh {
   float: right;
   margin-top: 700px;
   text-align: center;
+  border: solid black;
+  padding: 15px 10px 5px 10px;
 }
 
 ul {
@@ -31,14 +37,12 @@ ol {
   color: white;
   font-weight: 200px;
   border: solid #780905;
-  border-width: 5px;
-  border-width: 3px;
-  
+  border-width: 5px; 
 }
 .card {
   background-color: #050404;
   color: white;
-  border: solid #780905;
+  border: solid #cc0000;
   margin-top: 20px;
   margin-bottom: 20px;
   float: right;
@@ -170,10 +174,11 @@ figcaption {
   margin: 15px;
 }
 .important {
-  background-color: mediumaquamarine;
+  text-align: center;
+  background-color: #050404;
   color: white;
   border-width: 3px;
-  border: solid aquamarine;
+  border: solid #780905;
   margin: auto;
   width: 30%;
   padding: 15px; 
