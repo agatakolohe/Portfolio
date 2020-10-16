@@ -149,19 +149,22 @@ figcaption {
   text-align: center;
 }
 .fun {
-  color: aquamarine;
+  color: #9c0404;
 }
-.pnw {
-  
+.pnw h2{
+  color: #323f2c;
 }
-
-.adventure h3 {
-  font-style: italic;
-  color: darkgreen;
+.pnw h3 {
+  color: #44543f;
 }
-.adventure h4 {
-  color: seagreen;
-  margin: 15px;
+.pnw p, ul {
+  color: #b4b3b4;
+}
+.adventure {
+  text-align: center;
+}
+.adventure p {
+  color: #9b9c92;
 }
 .important {
   text-align: center;
