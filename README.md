@@ -16,7 +16,7 @@ First independent project for Epicodus. It is a portfolio webpage about me. It d
 ### Open Locally
 
 * Click on the link to my repository: [My Repository](https://github.com/agatakolohe/portfolio)
-* Click on the green "Code" button and copy the repository URL. Open your terminal and use command: git clone https://github.com/agatakolohe/portfolio is the directory you would like to have a clone of this repository.
+* Click on the green "Code" button and copy the repository URL. Open your terminal and use command: git clone https://github.com/agatakolohe/portfolio in to the directory you would like to have a clone of this repository.
 * Open in text editor to view code and make changes.
 
 ## Known Bugs
@@ -25,7 +25,7 @@ No known bugs present.
 
 ## Support and Contact Details
 
-If any errors or bugs occur use Chrome DevTools Javascript console or please email me, <agatakolohe@gmail.com>
+If any errors or bugs occur use Chrome DevTools or please email me, <agatakolohe@gmail.com>
 
 ## Technologies Used
 
