@@ -78,6 +78,9 @@ ol {
 .card-title {
   text-align: center;
 }
+.card ol {
+  text-align: center;
+}
 .poland {
   width: 50%;
   height: 50%;
@@ -99,30 +102,10 @@ ol {
 }
 .palmtree {
   margin: auto;
-  width: 50%;
-  height: 40%;
+  width: 60%;
+  height: 50%;
   display: block;
   margin-bottom: 30px;
-}
-.islands {
-  margin: auto;
-  margin-bottom: 30px;
-  width: 50%;
-  height: 40%;
-  display: block;
-}
-.aloha {
-  margin: auto;
-  margin-bottom: 30px;
-  width: 50%;
-  height: 40%;
-  display: block;
-}
-.makapuu {
-  margin: auto;
-  width: 50%;
-  height: 40%;
-  display: block;
 }
 .watrees {
   margin: auto;
