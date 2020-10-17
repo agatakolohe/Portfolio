@@ -12,6 +12,7 @@ First independent project for Epicodus. It is a portfolio webpage about me. It d
 
 ### View Online
 * To view in browser click the GH-Pages link: [My Portfolio](https://agatakolohe.github.io/portfolio/)
+  * Find the image of Carmen Sandiego (A woman in a red outfit) on the map and click on the image to be taken to the main page.
 
 ### Open Locally
 
